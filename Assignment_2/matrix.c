@@ -1,5 +1,5 @@
 /*
-program : matrix.c.c
+program : matrix.c
 Author : Vanshaj Verma
 */
 
