@@ -1,4 +1,4 @@
-#CFLAGS = -Wall -Werror -ansi -g
+CFLAGS = -Wall -Werror -ansi -g
 CC=gcc
 main: main.o expr.o
 clean:
